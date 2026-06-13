@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B75AA35-E376-4E75-9DCB-8548CD4166E6}|Source\\Backend\\TarGestAPI.Infrastructure\\TarGestAPI.Infrastructure.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targestapi.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B75AA35-E376-4E75-9DCB-8548CD4166E6}|Source\\Backend\\TarGestAPI.Infrastructure\\TarGestAPI.Infrastructure.csproj|solutionrelative:source\\backend\\targestapi.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AEC626-C876-49C7-8F99-1789E9CBCC95}|Source\\Backend\\TarGestAPI.Application\\TarGestAPI.Application.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targestapi.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AEC626-C876-49C7-8F99-1789E9CBCC95}|Source\\Backend\\TarGestAPI.Application\\TarGestAPI.Application.csproj|solutionrelative:source\\backend\\targestapi.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68B1378-C096-4A1A-B834-A8B941CA57E3}|Source\\Backend\\TarGestAPI.Domain\\TarGestAPI.Domain.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targestapi.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68B1378-C096-4A1A-B834-A8B941CA57E3}|Source\\Backend\\TarGestAPI.Domain\\TarGestAPI.Domain.csproj|solutionrelative:source\\backend\\targestapi.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Source\\Backend\\TarGestAPI.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Source\\Backend\\TarGestAPI.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T01:33:43.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Source\\Backend\\TarGestAPI.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Application\\Class1.cs",
+              "RelativeToolTip": "Source\\Backend\\TarGestAPI.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T01:33:03.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Source\\Backend\\TarGestAPI.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Domain\\Class1.cs",
+              "RelativeToolTip": "Source\\Backend\\TarGestAPI.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T01:32:02.2Z",
+              "EditorCaption": ""
             }
           ]
         }

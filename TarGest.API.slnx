@@ -1,1 +1,9 @@
-<Solution />
+<Solution>
+  <Folder Name="/Source/" />
+  <Folder Name="/Source/Backend/">
+    <Project Path="Source/Backend/TarGest.API/TarGest.API.csproj" />
+    <Project Path="Source/Backend/TarGestAPI.Application/TarGestAPI.Application.csproj" />
+    <Project Path="Source/Backend/TarGestAPI.Domain/TarGestAPI.Domain.csproj" />
+    <Project Path="Source/Backend/TarGestAPI.Infrastructure/TarGestAPI.Infrastructure.csproj" />
+  </Folder>
+</Solution>
