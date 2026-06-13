@@ -14,7 +14,7 @@ namespace TarGestAPI.Infrastructure.Context
             
         }
 
-        public DbSet<Task> Tasks;
+        public DbSet<Task> Tasks; 
 
     }
 }
