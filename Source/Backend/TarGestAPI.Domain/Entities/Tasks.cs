@@ -8,7 +8,7 @@ using TarGestAPI.Domain.Entities.Enum;
 
 namespace TarGestAPI.Domain.Entities
 {
-    public class Task
+    public class Tasks
     {
         [Key]
         public int idTask { get; set; }

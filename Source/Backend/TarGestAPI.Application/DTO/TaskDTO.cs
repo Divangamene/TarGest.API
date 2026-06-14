@@ -8,5 +8,10 @@ namespace TarGestAPI.Application.DTO
 {
     public class TaskDTO
     {
+        public int idTask { get; set; }
+        public string descriptionTask { get; set; } = string.Empty;
+        public string titleTask { get; set; } = string.Empty;
+        public DateTime timeStartTask { get; set; } = DateTime.Now;
+
     }
 }
