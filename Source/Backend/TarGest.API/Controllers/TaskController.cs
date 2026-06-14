@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Writers;
 using System.Reflection.Metadata.Ecma335;
 using TarGestAPI.Application.DTO;
 using TarGestAPI.Domain.Entities;
@@ -30,7 +32,16 @@ namespace TarGest.API.Controllers
             await _context.AddAsync(task);
             await _context.SaveChangesAsync();
             return Created();
-        }  
+        }
+        [HttpDelete("{idTask}")]
+        public async Task<ActionResult<Tasks>> DeteleTask(int idTask)
+        {
+            var Onetask =await _context.Tasks.FindAsync(idTask);
+            _context.Tasks.Remove(Onetask);
+            await _context.SaveChangesAsync();
+            return Ok();
+        }
+        
        
     }
 }
