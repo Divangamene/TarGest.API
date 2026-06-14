@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B75AA35-E376-4E75-9DCB-8548CD4166E6}|Source\\Backend\\TarGestAPI.Infrastructure\\TarGestAPI.Infrastructure.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targestapi.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B75AA35-E376-4E75-9DCB-8548CD4166E6}|Source\\Backend\\TarGestAPI.Infrastructure\\TarGestAPI.Infrastructure.csproj|solutionrelative:source\\backend\\targestapi.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Infrastructure\\Migrations\\20260614030945_Add-Migration Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\Backend\\TarGestAPI.Infrastructure\\Migrations\\20260614030945_Add-Migration Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3AEC626-C876-49C7-8F99-1789E9CBCC95}|Source\\Backend\\TarGestAPI.Application\\TarGestAPI.Application.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targestapi.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3AEC626-C876-49C7-8F99-1789E9CBCC95}|Source\\Backend\\TarGestAPI.Application\\TarGestAPI.Application.csproj|solutionrelative:source\\backend\\targestapi.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EF0541A-C20B-0138-1505-4A0C6A46C5BD}|Source\\Backend\\TarGestAPI.Infrastructure\\TarGestAPI.Infrastructure.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targestapi.infrastructure\\targestapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EF0541A-C20B-0138-1505-4A0C6A46C5BD}|Source\\Backend\\TarGestAPI.Infrastructure\\TarGestAPI.Infrastructure.csproj|solutionrelative:source\\backend\\targestapi.infrastructure\\targestapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D68B1378-C096-4A1A-B834-A8B941CA57E3}|Source\\Backend\\TarGestAPI.Domain\\TarGestAPI.Domain.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targestapi.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68B1378-C096-4A1A-B834-A8B941CA57E3}|Source\\Backend\\TarGestAPI.Domain\\TarGestAPI.Domain.csproj|solutionrelative:source\\backend\\targestapi.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D4181C8-FA1D-BB3D-B28C-6B9BE474C228}|Source\\Backend\\TarGest.API\\TarGest.API.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targest.api\\targest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D4181C8-FA1D-BB3D-B28C-6B9BE474C228}|Source\\Backend\\TarGest.API\\TarGest.API.csproj|solutionrelative:source\\backend\\targest.api\\targest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4181C8-FA1D-BB3D-B28C-6B9BE474C228}|Source\\Backend\\TarGest.API\\TarGest.API.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4181C8-FA1D-BB3D-B28C-6B9BE474C228}|Source\\Backend\\TarGest.API\\TarGest.API.csproj|solutionrelative:source\\backend\\targest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4181C8-FA1D-BB3D-B28C-6B9BE474C228}|Source\\Backend\\TarGest.API\\TarGest.API.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targest.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4181C8-FA1D-BB3D-B28C-6B9BE474C228}|Source\\Backend\\TarGest.API\\TarGest.API.csproj|solutionrelative:source\\backend\\targest.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4181C8-FA1D-BB3D-B28C-6B9BE474C228}|Source\\Backend\\TarGest.API\\TarGest.API.csproj|c:\\users\\utilizador\\videos\\myprojects\\targest.api\\source\\backend\\targest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4181C8-FA1D-BB3D-B28C-6B9BE474C228}|Source\\Backend\\TarGest.API\\TarGest.API.csproj|solutionrelative:source\\backend\\targest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,40 +51,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "Source\\Backend\\TarGestAPI.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "Source\\Backend\\TarGestAPI.Infrastructure\\Class1.cs",
+              "Title": "20260614030945_Add-Migration Inital.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Infrastructure\\Migrations\\20260614030945_Add-Migration Inital.cs",
+              "RelativeDocumentMoniker": "Source\\Backend\\TarGestAPI.Infrastructure\\Migrations\\20260614030945_Add-Migration Inital.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Infrastructure\\Migrations\\20260614030945_Add-Migration Inital.cs",
+              "RelativeToolTip": "Source\\Backend\\TarGestAPI.Infrastructure\\Migrations\\20260614030945_Add-Migration Inital.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T01:33:43.566Z",
+              "WhenOpened": "2026-06-14T03:09:45.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Source\\Backend\\TarGestAPI.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Application\\Class1.cs",
-              "RelativeToolTip": "Source\\Backend\\TarGestAPI.Application\\Class1.cs",
+              "Title": "TarGestAPI.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Infrastructure\\TarGestAPI.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Source\\Backend\\TarGestAPI.Infrastructure\\TarGestAPI.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Infrastructure\\TarGestAPI.Infrastructure.csproj",
+              "RelativeToolTip": "Source\\Backend\\TarGestAPI.Infrastructure\\TarGestAPI.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T01:33:03.675Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T02:56:05.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Source\\Backend\\TarGestAPI.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGestAPI.Domain\\Class1.cs",
-              "RelativeToolTip": "Source\\Backend\\TarGestAPI.Domain\\Class1.cs",
+              "Title": "TarGest.API",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGest.API\\TarGest.API.csproj",
+              "RelativeDocumentMoniker": "Source\\Backend\\TarGest.API\\TarGest.API.csproj",
+              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGest.API\\TarGest.API.csproj",
+              "RelativeToolTip": "Source\\Backend\\TarGest.API\\TarGest.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T02:55:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGest.API\\Program.cs",
+              "RelativeDocumentMoniker": "Source\\Backend\\TarGest.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGest.API\\Program.cs",
+              "RelativeToolTip": "Source\\Backend\\TarGest.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T01:32:02.2Z",
+              "WhenOpened": "2026-06-13T18:47:56.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGest.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Source\\Backend\\TarGest.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGest.API\\appsettings.json",
+              "RelativeToolTip": "Source\\Backend\\TarGest.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T18:44:04.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGest.API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Source\\Backend\\TarGest.API\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\Videos\\MyProjects\\TarGest.API\\Source\\Backend\\TarGest.API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Source\\Backend\\TarGest.API\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:41:10.009Z",
               "EditorCaption": ""
             }
           ]

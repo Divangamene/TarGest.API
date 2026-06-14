@@ -3,6 +3,8 @@ using Microsoft.Extensions.Options;
 using TarGestAPI.Infrastructure.Context;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<DbContextApi>(Options =>
+Options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Add services to the container.
 
@@ -10,8 +12,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<DbContextApi>(Options=>
-Options.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString")));
+
 
 var app = builder.Build();
 
