@@ -26,7 +26,7 @@ namespace TarGest.API.Controllers
                 descriptionTask = dto.descriptionTask,
                 titleTask=dto.titleTask,
                 timeStartTask=dto.timeStartTask
-            };
+            }; 
             await _context.AddAsync(task);
             await _context.SaveChangesAsync();
             return Created();
