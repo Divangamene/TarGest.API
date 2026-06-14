@@ -41,7 +41,12 @@ namespace TarGest.API.Controllers
             await _context.SaveChangesAsync();
             return Ok();
         }
-        
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Tasks>>> GetTasks() {
+
+            var allTaks= await _context.Tasks.ToListAsync();
+            return Ok(allTaks);
+        }
        
     }
 }
