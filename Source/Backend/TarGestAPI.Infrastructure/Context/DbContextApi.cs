@@ -1,9 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using TarGestAPI.Domain.Entities;
 
 namespace TarGestAPI.Infrastructure.Context
 {
@@ -14,7 +10,7 @@ namespace TarGestAPI.Infrastructure.Context
             
         }
 
-        public DbSet<Task>  Tasks { get; set; } 
+        public DbSet<Tasks>  Tasks { get; set; } 
 
     }
 }
